@@ -35,13 +35,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- <a href="https://www.exemplo.com" target="_blank">Acesse o projeto finalizado, online</a>
+- <a href="https://isaquecodes.github.io/projeto" target="_blank">Acesse o projeto finalizado, online</a>
 
-- <a href="https://www.exemplo.com" target="_blank">Assistir aulas</a>
+- <a href="https://https://app.rocketseat.com.br/discover" target="_blank">Assistir aulas</a>
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [<a href="https://www.exemplo.com" target="_blank">DESSE LINK</a>]. É necessário ter conta no [<a href="https://www.exemplo.com" target="_blank">FIGMA</a>] para acessá-lo.
+Você pode visualizar o layout do projeto através [<a href="https://www.figma.com/community/file/1187422022288947321" target="_blank">DESSE LINK</a>]. É necessário ter conta no [<a href="https://figma.com" target="_blank">FIGMA</a>] para acessá-lo.
 
 ## :memo: Licença
 
@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: <a href="https://www.exemplo.com" target="_blank">Participe da nossa comunidade!</a>
+Feito com ♥ by Rocketseat :wave: <a href="https://discord.gg/rocketseat" target="_blank">Participe da nossa comunidade!</a>
