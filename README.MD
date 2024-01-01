@@ -35,10 +35,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-  [<a href="https://www.exemplo.com" target="_blank">- Acesse o projeto finalizado, online</a>]
+[<a href="https://www.exemplo.com" target="_blank">Acesse o projeto finalizado, online</a>]
 
-
-  [<a href="https://www.exemplo.com" target="_blank">- Assistir aulas</a>]
+[<a href="https://www.exemplo.com" target="_blank">Assistir aulas</a>]
 
 ## 🔖 Layout
 
@@ -50,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [<a href="https://www.exemplo.com" target="_blank">Participe da nossa comunidade!</a>]
+Feito com ♥ by Rocketseat :wave: <a href="https://www.exemplo.com" target="_blank">Participe da nossa comunidade!</a>
