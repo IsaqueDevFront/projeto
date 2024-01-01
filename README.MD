@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://app.rocketseat.com.br/discover">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://app.rocketseat.com.br/discover" target="_blank">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -35,13 +35,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://isaquecodes.github.io/projeto)
+  [<a href="https://www.exemplo.com" target="_blank">- Acesse o projeto finalizado, online</a>]
 
-- [Assistir aulas](https://app.rocketseat.com.br/discover)
+
+  [<a href="https://www.exemplo.com" target="_blank">- Assistir aulas</a>]
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [<a href="https://www.exemplo.com" target="_blank">DESSE LINK</a>]. É necessário ter conta no [<a href="https://www.exemplo.com" target="_blank">FIGMA</a>] para acessá-lo.
 
 ## :memo: Licença
 
@@ -49,4 +50,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave: [<a href="https://www.exemplo.com" target="_blank">Participe da nossa comunidade!</a>]
