@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- <a href="https://isaquecodes.github.io/projeto" target="_blank">Acesse o projeto finalizado, online</a>
+- <a href="https://isaquecodes.github.io/Agregador-de-Links" target="_blank">Acesse o projeto finalizado, online</a>
 
 - <a href="https://app.rocketseat.com.br/discover" target="_blank">Assistir aulas</a>
 
